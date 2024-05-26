@@ -34,7 +34,7 @@ I'm Laraib Ishtiaq, a software developer with over 1 year of experience in web a
 </details>
 
 ## Education 🎓
-![workin](https://github.com/Techwiz-Laraib/READ-ME/assets/159939710/79bc6654-1b2a-4b74-923e-d4bde6ffba2a)
+
 
 * Bachelor's degree in Computer Science
 <br>Feel free to reach out if you're interested in collaborating on projects or if you have any question.
