@@ -1,4 +1,4 @@
-[![Mastehead]![Github](https://github.com/Techwiz-Laraib/READ-ME/assets/159939710/d8e40279-40e9-417f-95b0-c29277bf6724)
+![Github](https://github.com/Techwiz-Laraib/READ-ME/assets/159939710/d8e40279-40e9-417f-95b0-c29277bf6724)
 <h1 align="center">Hi 👋, I'm Laraib Ishtiaq</h1>
 I'm Laraib Ishtiaq, a software developer with over 1 year of experience in web applications. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.
 
