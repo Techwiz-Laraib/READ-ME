@@ -1,5 +1,5 @@
 # Hi there! Welcome !👋
-I'm Laraib Ishtiaq, a software developer with over 2 years of experience in web applications. but 6 years of experience in IT. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.
+I'm Laraib Ishtiaq, a software developer with over 1 year of experience in web applications. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.
 
 ## Skills 🚀
 <h4>👨‍💻 Programming and Markup Languages</h4>
@@ -15,19 +15,6 @@ I'm Laraib Ishtiaq, a software developer with over 2 years of experience in web 
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
-  <p>
-    <a href="#"><img alt="Nextjs" src="https://img.shields.io/badge/Nextjs-20232a.svg?logo=nextjs&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"></a>
-    <a href="#"><img alt="Boostrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-    
-  </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
 
@@ -43,7 +30,6 @@ I'm Laraib Ishtiaq, a software developer with over 2 years of experience in web 
 
 ## Education 🎓
 * Bachelor's degree in Computer Science
-* Courses: Machine Learning, AI, Web3, and Metaverse.
 <br>Feel free to reach out if you're interested in collaborating on projects or if you have any question.
 
 ## Contact 📫
