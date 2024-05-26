@@ -1,8 +1,13 @@
-![Github](https://github.com/Techwiz-Laraib/READ-ME/assets/159939710/d8e40279-40e9-417f-95b0-c29277bf6724)
-
-# Hi there! Welcome !👋
-
+[![Mastehead]![Github](https://github.com/Techwiz-Laraib/READ-ME/assets/159939710/d8e40279-40e9-417f-95b0-c29277bf6724)
+<h1 align="center">Hi 👋, I'm Laraib Ishtiaq</h1>
 I'm Laraib Ishtiaq, a software developer with over 1 year of experience in web applications. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.
+
+<h3 align="center">A passionate developer from Pakistan</h3>
+<img aighn="right" alt="coding"="400" scr="https://vsgif.com/gif/3195660">
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 ## Skills 🚀
   
