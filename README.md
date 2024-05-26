@@ -6,7 +6,7 @@ I'm Laraib Ishtiaq, a software developer with over 1 year of experience in web a
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <img aighn="right" alt="coding"="400" scr="https://vsgif.com/gif/3195660
-">
+"/>
 </p>
 
 ## Skills 🚀
