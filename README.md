@@ -3,7 +3,8 @@
 I'm Laraib Ishtiaq, a software developer with over 1 year of experience in web applications. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.
 
 <h3 align="center">A passionate developer from Pakistan</h3>
-<img aighn="right" alt="coding"="400" scr="https://vsgif.com/gif/3195660">
+<img aighn="right" alt="coding"="400" scr="![236119160-976a0405-caa7-470c-9356-16d43402ea0a](https://github.com/Techwiz-Laraib/READ-ME/assets/159939710/a8f36b90-450a-4eaf-a37a-e2b48f17a352)
+">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
