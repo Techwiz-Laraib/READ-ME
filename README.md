@@ -5,7 +5,7 @@
 I'm Laraib Ishtiaq, a software developer with over 1 year of experience in web applications. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.
 
 ## Skills 🚀
-  ![working](https://github.com/Techwiz-Laraib/READ-ME/assets/159939710/e9068dc6-de83-4cd7-a63e-53a0de9b6a70)
+  
 <h4>👨‍💻 Programming and Markup Languages</h4>   
   <p>
      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
@@ -34,6 +34,8 @@ I'm Laraib Ishtiaq, a software developer with over 1 year of experience in web a
 </details>
 
 ## Education 🎓
+![workin](https://github.com/Techwiz-Laraib/READ-ME/assets/159939710/79bc6654-1b2a-4b74-923e-d4bde6ffba2a)
+
 * Bachelor's degree in Computer Science
 <br>Feel free to reach out if you're interested in collaborating on projects or if you have any question.
 
